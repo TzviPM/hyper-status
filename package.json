@@ -1,0 +1,27 @@
+{
+  "name": "hyper-status",
+  "version": "1.0.0",
+  "description": "Status all the things in Hyper.is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omniroot/hyper-status.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-status"
+  ],
+  "author": "Hartley Melamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Omniroot/hyper-status/issues"
+  },
+  "homepage": "https://github.com/Omniroot/hyper-status#readme",
+  "dependencies": {
+    "tildify": "^1.2.0"
+  }
+}
